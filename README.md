@@ -77,7 +77,5 @@ language badges:
  python ominous.py
 ````
 
-   ![My Image](urinei1.jpg) 
-   
-   ![My Image](8.jpg)
+   ![My Image](onion.png) 
    
